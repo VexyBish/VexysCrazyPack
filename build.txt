@@ -1,0 +1,3 @@
+displayName = Vexy's Crazy Pack
+author = Vexy
+version = 0.1

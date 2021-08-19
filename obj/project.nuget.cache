@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M2/DImt7F+HbkTIe7MhWXNCf/3xbUdjmzya15ZLwbU1SiSczS5ja1SGLN1NzlAw+HQ5vRCA7edrCQplQd7H0+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tony9\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\VexysCrazyPack\\VexysCrazyPack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tony9\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
