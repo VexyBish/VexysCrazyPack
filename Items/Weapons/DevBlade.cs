@@ -4,14 +4,14 @@ using Terraria.ModLoader;
 namespace VexysCrazyPack.Items.Weapons
 {
 	public class DevBlade : ModItem
-	{
-		public override void SetStaticDefaults() 
-		{
-			// DisplayName.SetDefault("Gemsword"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
-			Tooltip.SetDefault("The sword of the idiotic god that thought it was a good idea to add this.");
-		}
-
-		public override void SetDefaults() 
+    {
+        public override void SetStaticDefaults()
+        {
+            // DisplayName.SetDefault("Gemsword"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
+            Tooltip.SetDefault("The sword of the idiotic god that thought it was a good idea to add this.");
+        }
+        //This is a note for testing
+        public override void SetDefaults() 
 		{
 			item.damage = 5000;
 			item.melee = true;
